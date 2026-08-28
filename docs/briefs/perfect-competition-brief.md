@@ -35,6 +35,6 @@ fertilizer expenses and more labor intensive than the other 2 crops.
 
 ## How I would know I was wrong
 
-My plan is assuming that I plant less than 20 beds of tomatoes, and less
-than 30 beds of carrots and mesclun each, but this hypothesis may not be
+My plan is assuming that I plant less than 20 beds of tomatoes and
+carrots each, and less than 30 beds of mesclun, but this hypothesis may not be
 true as I may still grow additional crops like carrots and make a profit.

@@ -10,16 +10,16 @@ Physician leader who has spent a 25+ year career caring for patients while worki
 
 ## Experience
 
-**Hospitalist** — Straub Medical Center, Hawai‘i Pacific Health · [dates]
+**Hospitalist** — Straub Medical Center, Hawai‘i Pacific Health
 Care for complex medical and surgical patients from Hawai‘i and across the Pacific.
 
-**Board of Directors; Utilization Review Committee** — Straub Medical Center · [dates]
+**Board of Directors; Utilization Review Committee** — Straub Medical Center
 Bring a physician's perspective to conversations about quality, resource stewardship, regulatory requirements, and organizational decision-making.
 
-**Supervising Physician** — Bay Clinic & Hilo Medical Center · [dates]
+**Supervising Physician** — Bay Clinic & Hilo Medical Center
 Supervised nurse practitioners while caring for underserved communities.
 
-**Hospitalist** — Castle Medical Center · [dates]
+**Hospitalist** — Castle Medical Center
 
 **Leadership & Special Projects**
 - Supported the organization's transition to ICD-10
@@ -33,11 +33,8 @@ Supervised nurse practitioners while caring for underserved communities.
 
 ## Board Certification
 
-[Add board certification details, e.g., American Board of Internal Medicine — Internal Medicine]
+**American Board of Internal Medicine (ABIM)** — Diplomate, Internal Medicine. Initially certified 1998; maintaining certification through ABIM's Maintenance of Certification (MOC) program (current cycle since 2018).
 
 ## Interests
 
 Gardening and weaving.
-
----
-*First draft generated from a bio you provided — add specific dates, board certification details, and any publications, awards, or licenses to complete it.*

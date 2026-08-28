@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Excel lock/temp files
+~$*.xlsx
+~$*.xlsm
+~$*.xls
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+
+# Editor / OS cruft
+Thumbs.db
+*.tmp
