@@ -1,7 +1,7 @@
 ---
 type: brief
 engagement: perfect-competition
-capability: perfect-competition
+capability: marginal-analysis
 date: 2026-08-23
 status: committed          # draft | committed | superseded
 hypothesis: "9 tomato beds, 11 carrot beds, 29 mesclun beds — carrots' marginal profit exceeds tomatoes' at this point"

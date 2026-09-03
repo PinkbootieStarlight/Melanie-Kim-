@@ -8,4 +8,3 @@ One folder per capability — a skill you're building, not a class. Each capabil
 
 Name folders after the capability itself, lowercase and hyphenated (e.g., `marginal-analysis`, `revenue-forecasting`) — never after a course, semester, or week.
 
-`example-capability/` is a template. Rename it (and its contents) to your first real capability, or delete it once you have real ones in place.
