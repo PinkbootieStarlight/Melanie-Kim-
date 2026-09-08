@@ -1,6 +1,6 @@
 # Marginal Analysis
 
-Allocating a limited, shared resource (land, labor, budget) across multiple competing options by comparing each option's marginal profit at every unit, rather than optimizing one option at a time while holding the others fixed. Useful whenever you're choosing "how much of A vs. B vs. C" under a constraint they all draw from.
+This capability uses information from marginal analysis to compare growing tomatoes, carrots, and mesclun under shared constraints to determine the maximum-profit allocation for these crops.
 
 ## Engagements that used this capability
 
