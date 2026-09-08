@@ -4,7 +4,7 @@ capability: marginal-analysis
 engagement: perfect-competition
 date: 2026-09-03
 status: Audited  
-built_with: ""
+built_with: ChatGPT
 ---
 
 # Marginal Analysis — model specification
