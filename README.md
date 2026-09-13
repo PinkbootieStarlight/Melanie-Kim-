@@ -8,6 +8,6 @@ This repository is my portfolio of coursework and applied analysis, organized by
 
 | Engagement | Brief | Build | Memo |
 |---|---|---|---|
-| [Engagement name] | [docs/briefs/engagement-name-brief.md](docs/briefs/) | [capabilities/capability-name/](capabilities/) | [docs/decisions/engagement-name-memo.md](docs/decisions/) |
+| Perfect Competition Farm Allocation | [Economic analysis](analysis/) | [Marginal analysis](capabilities/marginal-analysis/) | [Recommendation memo](docs/decisions/perfect-competition-memo.md) |
 
 As I complete engagements, I'll add a row here linking the brief, the build, and the memo. See [AGENTS.md](AGENTS.md) for how I work with AI tools in this repo.
