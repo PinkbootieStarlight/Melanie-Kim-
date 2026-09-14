@@ -29,17 +29,17 @@ The farmer is using a model for maximizing growing beds of tomatoes, carrots and
 |Tomato Price| 8800 |dollars/bed|Case instructions|
 |Tomato Labor| 2.50|hours/week/bed | Case instructions|
 |Tomato Fertilizer| 880| dollars/bed| Case instructions|
-|Tomato Diminishing Return| 10| Percent/bed| Case instructions|
+|Tomato Diminishing Return| 0.10 | decimal per bed| Case instructions|
 |Carrot Max Beds| 20 | beds|Case instructions|
 |Carrot Price| 2094| dollars/bed| Case instructions| 
 |Carrot Labor| 0.833| hours/week/bed| Case instructions| 
 |Carrot fertilizer| 440| dollars/bed| Case instructions| 
-|Carrot Diminishing Return| 2.5| percent/bed| Case instructions| 
+|Carrot Diminishing Return|0.025 | decimal per bed| Case instructions| 
 |Mesclun Max Beds| 30| beds| Case instructions| 
 |Mesclun Price| 2700| dollars/bed| Case instructions|
 |Mesclun Labor| 1.25| hours/week/bed| Case instructions|
 |Mesclun Fertilizer| 880| dollars/bed| Case instructions|
-|Mesclun Diminishing Return| 1.25| percent/bed| Case instructions| 
+|Mesclun Diminishing Return| 0.0125| decimal per bed | Case instructions| 
 
 
 ## Structure
