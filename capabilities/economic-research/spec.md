@@ -4,7 +4,7 @@
 
 ## 1. Research Questions
 
-**Primary:** How has the shift from physician-owned private practice toward integration with larger healthcare organizations affected the structure of healthcare delivery and healthcare costs?
+**Primary:**  What is the relationship between physician integration with larger healthcare organizations and healthcare prices, and are any price effects offset by measurable efficiencies or improvements in patient outcomes?
 
 **Secondary:** Do efficiencies associated with physician integration offset the effects of increased provider market power?
 
@@ -22,6 +22,7 @@ The concept map will serve as the primary analytical framework. The analysis wil
 - **Market-power and delivery pathway:** increased concentration and bargaining leverage, referral steering or network retention, and changes in site of care.
 - **Outcomes to evaluate:** competition, healthcare prices and spending, utilization, operational efficiency, and quality/patient outcomes.
 - **Net question:** whether measurable efficiencies are sufficient to offset market-power effects.
+- **Decision-maker:** Federal and state antitrust regulators, including the Federal Trade Commission, evaluating physician-practice acquisitions and healthcare consolidation.
 
 ## 4. Evidence / Data Sources
 
@@ -61,13 +62,12 @@ Each empirical figure will be used for a distinct analytical purpose rather than
 
 ## 7. Evidence That Could Challenge the Hypothesis
 
-- Evidence that integration lowers healthcare costs or prices.
-- Evidence that integration does not increase provider bargaining power or market concentration.
-- Evidence that integration produces substantial measurable cost efficiencies sufficient to offset associated price or spending increases.
-- Evidence that integration produces meaningful improvements in quality or patient outcomes sufficient to offset associated increases in prices or spending.
+* The price component of the hypothesis would be challenged by strong and consistent evidence that physician integration results in price reductions that are both statistically significant and economically meaningful compared with similar independent practices. The size of the decrease will be considered in relation to the price effects reported in the physician-integration literature.
+* The market-power component would be challenged if the evidence shows both no economically meaningful increase in physician-market concentration and no meaningful increase in provider bargaining power with payers following integration.
+* Integration may create real organizational efficiencies, but greater organizational efficiency does not necessarily make healthcare less expensive. For these efficiencies to offset higher healthcare prices or spending, they should translate into measurable savings for patients or payers that are at least large enough to offset the additional spending associated with integration.
+* Quality will count as an offset only if the evidence demonstrates improvements in patient outcomes that are both statistically significant and clinically meaningful. Improvements in administrative coordination, physician throughput, or other process measures alone would not be enough.
 
 ## 8. Limitations
-
 - A substantial portion of the empirical evidence uses Medicare data; results may not fully generalize to commercially insured populations.
 - Effects of integration may differ across specialties and sites of care.
 - Effects of integration may differ under alternative payment models (APMs), including accountable care organizations, patient-centered medical homes, and bundled-payment arrangements.
