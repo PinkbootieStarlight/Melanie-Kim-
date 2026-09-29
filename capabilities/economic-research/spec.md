@@ -1,12 +1,12 @@
 # Physician Integration and Its Impact on Healthcare Delivery and Healthcare Costs
 
-*Working specification assembled from the student's ASK brief, evidence matrix, concept map, and PLAN responses.*
+*Working specification revised to align the research brief, evidence matrix, and instructor feedback.*
 
-## 1. Research Questions
+## 1. Research Question
 
-**Primary:**  What is the relationship between physician integration with larger healthcare organizations and healthcare prices, and are any price effects offset by measurable efficiencies or improvements in patient outcomes?
+**Primary:** What is the relationship between physician integration with larger healthcare organizations and healthcare prices, and are any price effects offset by measurable efficiencies or improvements in patient outcomes?
 
-**Secondary:** Do efficiencies associated with physician integration offset the effects of increased provider market power?
+The analysis will focus on physician prices as the primary empirical price measure while using evidence on hospital prices, site of care, utilization, and healthcare spending to interpret the broader economic effects of integration.
 
 ## 2. Working Hypothesis
 
@@ -14,82 +14,84 @@ Physician integration may generate genuine economies of scale and administrative
 
 ## 3. Economic Framework / Model
 
-The concept map will serve as the primary analytical framework. The analysis will follow a causal pathway from the observed structural shift in physician practice ownership through the drivers and mechanisms of integration to measurable healthcare-delivery and economic outcomes.
+The analysis will examine the relationship between physician integration and healthcare prices through two primary microeconomic concepts: **economies of scale and market power**.
 
-- **Observed structural change:** declining physician-owned private practice and increasing employment or ownership by larger healthcare organizations.
-- **Drivers of integration:** administrative and overhead burden, staffing costs, costly resources and capital needs, malpractice/liability costs, reimbursement pressures, and the bargaining position of smaller practices with insurers.
-- **Potential efficiency pathway:** economies of scale and scope, shared administrative resources, access to capital and costly resources, reduced transaction/administrative burden, and potential operational efficiencies.
-- **Market-power and delivery pathway:** increased concentration and bargaining leverage, referral steering or network retention, and changes in site of care.
-- **Outcomes to evaluate:** competition, healthcare prices and spending, utilization, operational efficiency, and quality/patient outcomes.
-- **Net question:** whether measurable efficiencies are sufficient to offset market-power effects.
-- **Decision-maker:** Federal and state antitrust regulators, including the Federal Trade Commission, evaluating physician-practice acquisitions and healthcare consolidation.
+Physician integration may create economies of scale through shared administrative resources, access to capital, reduced transaction and administrative costs, and other operational efficiencies. These efficiencies could reduce the cost of delivering care. At the same time, integration may increase provider concentration and bargaining power, potentially contributing to higher negotiated prices. Referral patterns and changes in site of care will be considered as mechanisms through which integration may affect prices and spending rather than as separate economic concepts.
+
+The **primary empirical price measure will be physician prices**, using Cooper et al.'s finding of a **15.1% increase two years after integration** as the principal benchmark. Evidence on hospital prices, site-of-care spending, utilization, and other healthcare expenditures will be considered as supporting evidence when evaluating the broader effects of physician integration on healthcare spending. Cooper et al. also report a 3.3% increase in hospital prices and no discernible effect on the quality measures studied.
+
+The central economic test is whether measurable efficiencies associated with integration are sufficiently large to offset higher prices or spending associated with increased market power.
+
+The findings will be considered from the perspective of federal and state antitrust regulators. In particular, the analysis will consider whether regulators evaluating hospital acquisitions of physician practices should explicitly account for resulting physician-market concentration and its potential effects on provider bargaining power and prices.
 
 ## 4. Evidence / Data Sources
 
-The analysis will synthesize peer-reviewed scientific and economic literature, healthcare-policy research, national physician-practice data, Medicare claims-based studies, systematic reviews, and relevant economic studies.
+### Primary Evidence
 
-**Core evidence base:**
+- **Kane, C. K. (2025).** *Physician practice characteristics in 2024: Private practices account for less than half of physicians in most specialties.* American Medical Association, Policy Research Perspectives. The AMA Physician Practice Benchmark Survey documents the shift from physician-owned private practice toward employment and integration with larger healthcare organizations.
+- **Cooper, Z., Craig, S. V., Epanomeritakis, A., Grennan, M., Martinez, J. R., Scott Morton, F., & Swanson, A. T. (2025).** *Are hospital acquisitions of physician practices anticompetitive?* (NBER Working Paper No. 34039). National Bureau of Economic Research. Primary empirical evidence examining hospital acquisition of physician practices and its effects on physician and hospital prices, market power, referrals, and quality.
 
-- **Kane / American Medical Association Benchmark Survey** — national physician-practice ownership and employment trends and reported drivers of practice sale or integration.
-- **Aabedi et al.** — background on the decline in physician-owned private practice and contributing pressures.
-- **Gaynor & Haas-Wilson** — industrial-organization framework for consolidation, competition, transaction costs, barriers to entry, and market power.
-- **Whaley & Zhao** — empirical evidence on vertical integration, referral patterns, site of care, spending, and patient welfare.
-- **Harris et al.** — systematic review of cost, quality, and utilization following vertical integration.
-- **Cooper et al.** — empirical evidence on hospital acquisition of physician practices, bargaining power, concentration, and prices.
-- **Saghafian et al.** — evidence on gastroenterology integration, physician throughput/operational efficiency, spending, and quality outcomes.
+### Supporting Evidence
 
-Contextual/supporting sources such as the Center for American Progress report and Gale commentary will be used for framing where appropriate, while stronger empirical studies will carry the main evidentiary weight.
+- **Whaley, C. M., & Zhao, X. (2024).** *The effects of physician vertical integration on referral patterns, patient welfare, and market dynamics.* Journal of Public Economics, 238, 105175. https://doi.org/10.1016/j.jpubeco.2024.105175. Evaluates site-of-care and referral changes following integration and their effects on Medicare spending and patient welfare.
+- **Harris, A., Philbin, S., Post, B., Jordan, N., Beestrum, M., Epstein, R., & McHugh, M. (2025).** *Cost, quality, and utilization after hospital-physician and hospital-post acute care vertical integration: A systematic review.* Medical Care Research and Review, 82(1), 3–42. https://doi.org/10.1177/10775587241247682. Provides a systematic review of evidence regarding costs, quality, utilization, and efficiencies following integration.
+- **Gaynor, M., & Haas-Wilson, D. (1999).** *Change, consolidation, and competition in health care markets.* Journal of Economic Perspectives, 13(1), 141–164. https://doi.org/10.1257/jep.13.1.141. Provides the economic framework for evaluating economies of scale, transaction costs, barriers to entry, bargaining power, and market power.
 
-## 5. Analysis Method
+Additional sources contained in the evidence matrix will be used selectively for context, interpretation, or limitations rather than treated as separate analytical outcomes.
 
-The literature will be used to test, rather than simply confirm, the working hypothesis. Studies will be compared according to where their findings fit within the analytical pathway:
+## 5. Analysis
 
-**Structural change → drivers of integration → efficiencies → competition/market power → referral and site-of-care changes → prices/spending → quality/patient outcomes → net effect**
+The analysis will:
 
-The analysis will compare documented efficiencies—including administrative support, access to resources, economies of scale and scope, and operational efficiencies—with empirical evidence concerning concentration, provider market power, referral patterns, site of care, prices/spending, competition, and patient outcomes.
+1. Document the shift from physician-owned practice toward employment and organizational integration using AMA benchmark data.
+2. Evaluate the relationship between physician integration and physician prices, using Cooper et al.'s **15.1% physician-price increase** as the primary empirical benchmark.
+3. Evaluate **economies of scale versus market power** as the two competing economic forces relevant to the effects of integration.
+4. Use Whaley & Zhao and Harris et al. as supporting evidence to assess whether changes in site of care, healthcare spending, efficiencies, or patient outcomes reinforce or challenge the primary price finding.
+5. Determine whether documented efficiency savings or meaningful improvements in patient outcomes are sufficiently large to offset the additional spending associated with integration.
+6. Consider the implications for antitrust review of hospital acquisitions of physician practices, particularly whether resulting physician-market concentration and potential price effects should receive greater weight.
 
-Where studies reach different conclusions, the analysis will consider differences in study population, specialty, form of integration, methodology, payer population, site of care, and measured outcomes rather than assuming that one result invalidates another.
+## 6. Planned Figure
 
-## 6. Planned Figures / Visual Evidence
+**One principal figure:** A concise comparison showing the structural shift toward physician employment/integration using AMA benchmark data alongside the **15.1% physician-price increase following integration reported by Cooper et al.**
 
-- **Concept map** — analytical framework showing the proposed causal pathways and the efficiency-versus-market-power trade-off.
-- **AMA Benchmark Survey** — structural shift away from physician-owned private practice.
-- **Whaley & Zhao** — evidence on referral/site-of-care changes and spending associated with integration.
-- **Cooper et al.** — price effects associated with hospital acquisition of physician practices.
-- **Saghafian et al. (candidate)** — operational efficiency/throughput compared with spending and quality outcomes.
-
-Each empirical figure will be used for a distinct analytical purpose rather than repeating the same point.
+Whaley & Zhao and Harris et al. will be incorporated as supporting evidence in the text rather than presented as separate figures.
 
 ## 7. Evidence That Could Challenge the Hypothesis
 
-* The price component of the hypothesis would be challenged by strong and consistent evidence that physician integration results in price reductions that are both statistically significant and economically meaningful compared with similar independent practices. The size of the decrease will be considered in relation to the price effects reported in the physician-integration literature.
-* The market-power component would be challenged if the evidence shows both no economically meaningful increase in physician-market concentration and no meaningful increase in provider bargaining power with payers following integration.
-* Integration may create real organizational efficiencies, but greater organizational efficiency does not necessarily make healthcare less expensive. For these efficiencies to offset higher healthcare prices or spending, they should translate into measurable savings for patients or payers that are at least large enough to offset the additional spending associated with integration.
-* Quality will count as an offset only if the evidence demonstrates improvements in patient outcomes that are both statistically significant and clinically meaningful. Improvements in administrative coordination, physician throughput, or other process measures alone would not be enough.
+The hypothesis will be reconsidered if the evidence demonstrates any of the following:
+
+- **Price condition:** Strong and consistent evidence shows that integrated physician practices have prices at or below comparable independent practices. Cooper et al.'s finding of a **15.1% increase in physician prices two years after integration** will serve as the principal empirical benchmark for evaluating the economic magnitude of observed price effects.
+- **Efficiency-offset condition:** Economies of scale or organizational efficiencies will count as a meaningful offset only when documented savings per patient or episode are of approximately the **same order of magnitude as the additional spending associated with integration**, using the 15.1% physician-price increase reported by Cooper et al. as the principal benchmark.
+- **Quality condition:** Quality improvements will count as an offset only if the evidence demonstrates improvements in patient outcomes that are both **statistically significant and clinically meaningful**. Improvements in administrative coordination, physician throughput, or other process measures alone would not be sufficient.
+- **Overall condition:** If high-quality evidence consistently demonstrates that efficiency savings and meaningful improvements in patient outcomes offset the observed price or spending increases associated with integration, the hypothesis that market-power effects dominate would be weakened.
 
 ## 8. Limitations
-- A substantial portion of the empirical evidence uses Medicare data; results may not fully generalize to commercially insured populations.
-- Effects of integration may differ across specialties and sites of care.
-- Effects of integration may differ under alternative payment models (APMs), including accountable care organizations, patient-centered medical homes, and bundled-payment arrangements.
-- Studies may use different definitions and forms of physician integration, ownership, or employment.
-- The evidence base includes different methodologies and study periods; some studies are causal while others are observational, descriptive, systematic reviews, policy syntheses, or working papers.
-- Evidence on patient quality and outcomes is more limited than evidence on prices, spending, and utilization.
-- Not every instance of healthcare-market concentration can be attributed to physician integration.
+
+- Physician integration is heterogeneous. Effects may differ by specialty, geographic market, payer, type of acquiring organization, and degree of integration.
+- Observational studies may be affected by selection bias and other confounding factors. Greater weight will therefore be given to studies using stronger causal designs.
+- Physician prices are the **primary empirical price measure** in this analysis but do not represent total healthcare spending. Evidence on hospital prices, site of care, utilization, and other healthcare expenditures will therefore be used to interpret the broader cost implications of integration.
+- Evidence of administrative coordination or operational efficiency does not necessarily demonstrate lower healthcare spending or improved patient outcomes.
+- Evidence regarding quality and patient outcomes remains more limited and mixed than evidence regarding prices and spending.
+- National findings may not apply uniformly to every local healthcare market because market concentration and competitive conditions vary geographically.
 
 ## 9. Acceptance Criteria / Definition of Done
 
-The analysis will be considered complete if it:
+The final analysis should:
 
-- Documents the structural shift from physician-owned private practice toward integration with larger healthcare organizations.
-- Explains the economic drivers and potential efficiencies of integration using relevant microeconomic concepts.
-- Evaluates empirical evidence on healthcare delivery, competition, provider market power, referral/site-of-care patterns, prices, and spending.
-- Examines quality and patient outcomes where evidence is available and clearly identifies limits in the evidence.
-- Compares measurable efficiencies with observed market-power effects and reaches an evidence-supported answer to the research questions, whether or not the original hypothesis is supported.
+- Clearly document the shift from physician-owned practice toward employment/integration.
+- Evaluate the relationship between physician integration and physician prices using Cooper et al.'s **15.1% increase** as the principal empirical benchmark.
+- Apply **economies of scale and market power** as the two primary economic concepts.
+- Distinguish physician prices from broader healthcare prices and spending.
+- Evaluate whether documented efficiencies or meaningful improvements in patient outcomes are sufficient to offset observed price or spending increases.
+- Use one principal figure and supporting empirical evidence without expanding the paper beyond the primary research relationship.
+- Identify a specific policy implication for federal and state antitrust regulators regarding physician-market concentration when hospitals acquire physician practices.
+- State limitations and avoid implying that all forms of physician integration produce identical effects.
+- Support empirical claims with complete citations.
 
 ## 10. Final Deliverables
 
-- PLAN/specification for the repository at `capabilities/economic-research/spec.md`.
-- Dated draft snapshots during meaningful writing sessions.
-- Prompt log documenting AI-assisted research/critique sessions.
-- Final research paper in PDF form, with figures and bibliography handled according to the course instructions.
-- Evidence-bearing graph/chart/diagram, including the analytical concept map and selected empirical figures.
+- Four-page economic analysis addressing the primary research question.
+- One principal empirical figure showing the structural shift toward physician integration and the primary physician-price finding.
+- Complete citations and bibliography.
+- Final research brief, specification, evidence matrix, and supporting project materials maintained in the GitHub repository.
+- Final repository review to confirm that required files are correctly named, located, and rendered.
