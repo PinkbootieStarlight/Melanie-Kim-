@@ -31,10 +31,7 @@ costs — reducing profit as beds scale up.
 
 I expect to grow 9 tomato beds, 11 carrot beds, 29 mesclun beds, because
 carrot's marginal profit is higher than tomatoes, which is costlier with
-fertilizer expenses and more labor intensive than the other 2 crops.
+fertilizer expenses and more labor intensive than the other 2 crops. I stopped my initial estimate at 11 carrot beds because I expected diminishing returns and increasing labor costs to reduce the profitability of adding additional beds. 
 
 ## How I would know I was wrong
-
-My plan is assuming that I plant less than 20 beds of tomatoes and
-carrots each, and less than 30 beds of mesclun, but this hypothesis may not be
-true as I may still grow additional crops like carrots and make a profit.
+My hypothesis would be wrong if marginal analysis shows that additional carrot beds beyond 11 remain profitable. 
