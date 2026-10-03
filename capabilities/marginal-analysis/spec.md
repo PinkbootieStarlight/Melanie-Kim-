@@ -111,9 +111,9 @@ The farmer is using a model for maximizing growing beds of tomatoes, carrots and
     1 × 2.5 × 36 × 1.10 = 99 labor hours
     The workbook must return 99 hours.
 2. Marginal-cost cross-check: Compare at least one intermediate marginal-cost result with the Farm Profit Lab.
-3. Published optimal mix check: approximately 10 tomato beds, 20 carrot beds, and 30 mesclun beds.
-4. Published season profit check: approximately $42,761.66
-5. Standalone P≈MC checks: approximately tomato 10 beds, carrot 10 beds, mesclun 6 beds.
+3. Published optimal mix check: 10 tomato beds, 20 carrot beds, and 30 mesclun beds.
+4. Published season profit check: season profit must equal $42,761.66 and must not exceed $42,761.66.
+5. Standalone P≈MC checks: tomato 10 beds, carrot 10 beds, mesclun 6 beds.
 6. Formula integrity: every calculated cell must contain a formula rather than a manually entered calculated value.
 7. Excel error check: no #VALUE!, #DIV/0!, #REF!, #N/A, or other formula errors.
 8. Constraint checks: tomato ≤20, carrot ≤20, mesclun ≤30, total beds ≤64, temp workers ≤4, land used ≤1.5 acres, and crop-bed decisions are nonnegative integers.
