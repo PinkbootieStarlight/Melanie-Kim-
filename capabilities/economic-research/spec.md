@@ -52,9 +52,8 @@ The analysis will:
 
 ## 6. Planned Figure
 
-**One principal figure:** A concise comparison showing the structural shift toward physician employment/integration using AMA benchmark data alongside the **15.1% physician-price increase following integration reported by Cooper et al.**
+**One principal figure:** Cooper et al.’s physician-price figure showing the change in physician prices around hospital acquisition of physician practices. Other figures reviewed during the analysis remain in the repository as supporting research materials but are not included in the final paper.
 
-Whaley & Zhao and Harris et al. will be incorporated as supporting evidence in the text rather than presented as separate figures.
 
 ## 7. Evidence That Could Challenge the Hypothesis
 
@@ -91,7 +90,7 @@ The final analysis should:
 ## 10. Final Deliverables
 
 - Four-page economic analysis addressing the primary research question.
-- One principal empirical figure showing the structural shift toward physician integration and the primary physician-price finding.
-- Complete citations and bibliography.
+-  One principal empirical figure from Cooper et al. showing physician-price changes around hospital acquisition of physician practices
+-  - Complete citations and bibliography.
 - Final research brief, specification, evidence matrix, and supporting project materials maintained in the GitHub repository.
 - Final repository review to confirm that required files are correctly named, located, and rendered.
